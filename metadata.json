@@ -1,0 +1,6 @@
+{
+  "name": "Student Club Management & Collaboration Platform",
+  "description": "Centralized platform for student club management, role-based hierarchy communication, events, task tracking, resource repository, attendance, competitions, discussions, analytics, and AI assistance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
